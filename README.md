@@ -21,7 +21,7 @@ xcversion uninstall 10.3
 
 ### 安装Xode10 或 11以后 报错 library not found for -libstdc++.6.0.9
 
-将仓库里的文件放在下面目录即可
+将[Github仓库](https://github.com/QuanGe/Xcode-About)里的文件放在下面目录即可
 
 ```
 1.真机环境：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/
